@@ -1,0 +1,29 @@
+[
+    {
+        "ID": 1,
+        "Title": "Remera",
+        "Description": "Una remera casual.",
+        "Price": 15.99,
+        "Thumbnail": "https://google.com/remera.jpg",
+        "Code": "TSHIRT01",
+        "Stock": 30
+    },
+    {
+        "ID": 2,
+        "Title": "Pantalon",
+        "Description": "Pantalon elegante.",
+        "Price": 29.99,
+        "Thumbnail": "https://google.com/pantalon.jpg",
+        "Code": "TROUSERS01",
+        "Stock": 30
+    },
+    {
+        "ID": 3,
+        "Title": "Zapato",
+        "Description": "Zapato deportivo.",
+        "Price": 49.99,
+        "Thumbnail": "https://google.com/zapato.jpg",
+        "Code": "SHOES001",
+        "Stock": 60
+    }
+]
