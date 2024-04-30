@@ -79,3 +79,5 @@ productManager.updateProduct(1, { Price: 11.99 });
 
 // Elimina un producto
 productManager.deleteProduct(1);
+
+module.exports = ProductManager;
