@@ -43,5 +43,32 @@
     "Code": "ABC123",
     "Stock": 100,
     "ID": 6
+  },
+  {
+    "Title": "Producto de ejemplo",
+    "Description": "Descripción del producto",
+    "Price": 10.99,
+    "Thumbnail": "https://ejemplo.com/imagen.jpg",
+    "Code": "ABC123",
+    "Stock": 100,
+    "ID": 7
+  },
+  {
+    "Title": "Producto de ejemplo",
+    "Description": "Descripción del producto",
+    "Price": 10.99,
+    "Thumbnail": "https://ejemplo.com/imagen.jpg",
+    "Code": "ABC123",
+    "Stock": 100,
+    "ID": 8
+  },
+  {
+    "Title": "Producto de ejemplo",
+    "Description": "Descripción del producto",
+    "Price": 10.99,
+    "Thumbnail": "https://ejemplo.com/imagen.jpg",
+    "Code": "ABC123",
+    "Stock": 100,
+    "ID": 9
   }
 ]

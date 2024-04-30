@@ -54,7 +54,7 @@ class ProductManager {
 }
 
 // Uso de la clase
-const productManager = new ProductManager('productos.json');
+const productManager = new ProductManager('./data/productos.json');
 
 // Añadir el producto
 productManager.addProduct({
